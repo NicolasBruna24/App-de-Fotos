@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "855763503613",
+    "project_id": "fotos-215c0",
+    "storage_bucket": "fotos-215c0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855763503613:android:1ee29b0584e0c5e246b194",
+        "android_client_info": {
+          "package_name": "com.example.empresafotos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkHehiGA7WFKGR3y4085rWpU5piNNQw8E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
