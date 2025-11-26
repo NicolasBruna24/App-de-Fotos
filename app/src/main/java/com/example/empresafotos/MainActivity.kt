@@ -63,7 +63,7 @@ fun AppNavigation() {
             QrScannerScreen(navController = navController)
         }
         composable(
-            "gallery/{qrCodeValue}",
+            route = "gallery/{qrCodeValue}",
             arguments = listOf(navArgument("qrCodeValue") { type = NavType.StringType })
         ) {
             val qrCodeValue = it.arguments?.getString("qrCodeValue")

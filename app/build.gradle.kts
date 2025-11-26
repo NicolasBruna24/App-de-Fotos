@@ -65,7 +65,7 @@ dependencies {
     implementation("com.google.firebase:firebase-auth-ktx:23.2.1")
     implementation("com.google.firebase:firebase-firestore-ktx:25.1.4")
     implementation("com.google.firebase:firebase-storage-ktx:21.0.2")
-    implementation("io.coil-kt:coil-compose:2.7.0")
+    implementation("io.coil-kt:coil-compose:2.6.0")
     implementation("androidx.lifecycle:lifecycle-viewmodel-compose:2.8.0")
     implementation("com.google.firebase:firebase-crashlytics-ndk")
     implementation("com.google.firebase:firebase-analytics")
